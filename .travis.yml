@@ -1,9 +1,14 @@
+os:
+	- linux
+  
 language: php
 
 php:
-	- 7.2
+	- 7.1
 
 before_script:
-	- composer install --dev
+	- composer self-update
+	- composer install --no-interaction
 
-script: vendor/bin/phpunit tests/MyTest.php
+script: 
+	- vendor/bin/phpunit tests/MyTest.php
