@@ -3,8 +3,7 @@ language: php
 php:
 	- 7.2
 
-install:
-	- composer install
+before_script:
+	- composer install --dev
 
-script:
-	- phpunit tests/MyTest.php
+script: vendor/bin/phpunit tests/MyTest.php
