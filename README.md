@@ -1,5 +1,7 @@
 # phpunit example
 
+[![Build Status](https://travis-ci.org/migueabellan/phpunit-example.svg?branch=master)](https://travis-ci.org/migueabellan/phpunit-example)
+
 ## Version
 
 ```sh
