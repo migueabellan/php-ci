@@ -6,7 +6,7 @@
 
 ```sh
 $ phpunit --version
-PHPUnit 6.5.5 by Sebastian Bergmann and contributors.
+PHPUnit 7.2.6 by Sebastian Bergmann and contributors.
 ```
 
 
