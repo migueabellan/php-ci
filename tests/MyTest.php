@@ -11,7 +11,7 @@ class MyTest extends TestCase
         $stack = array();
         $this->assertEquals(0, count($stack));
  
-        array_push($stack, 'foo');
+        array_push($stack, 'fo');
         $this->assertEquals('foo', $stack[count($stack)-1]);
         $this->assertEquals(1, count($stack));
  
