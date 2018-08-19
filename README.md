@@ -25,6 +25,10 @@ Clone this repository
 
 ```sh
 $ git clone https://github.com/migueabellan/php-ci.git
+
+or 
+
+$ git clone https://gitlab.com/migueabellan/php-ci.git
 ```
 
 Install with composer
