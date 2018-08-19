@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/migueabellan/php-ci.svg?branch=master)](https://travis-ci.org/migueabellan/php-ci)
 
+[![coverage report](https://gitlab.com/migueabellan/php-ci/badges/master/coverage.svg)](https://gitlab.com/migueabellan/php-ci/commits/master)
 
 
 ### Requirements
