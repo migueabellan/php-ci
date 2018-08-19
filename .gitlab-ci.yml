@@ -1,0 +1,13 @@
+stages:
+  - test
+
+test app:
+  image: composer
+  stage: test
+  before_script:
+    - php -v
+    - composer -v
+  script:
+    - composer self-update
+    - composer install --no-interaction
+    - php vendor/bin/phpunit tests
