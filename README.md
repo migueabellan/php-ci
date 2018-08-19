@@ -1,22 +1,30 @@
-# phpunit example
+# PHP-CI
 
-[![Build Status](https://travis-ci.org/migueabellan/phpunit-example.svg?branch=master)](https://travis-ci.org/migueabellan/phpunit-example)
+> Simple example in PHP to test CI in different platforms
 
-## Version
+[![Build Status](https://travis-ci.org/migueabellan/php-ci.svg?branch=master)](https://travis-ci.org/migueabellan/php-ci)
+
+
+
+### Requirements
 
 ```sh
+$ php --version
+PHP >= 7.0
+$ composer --version
+composer >= 1.6
 $ phpunit --version
-PHPUnit 7.2.6 by Sebastian Bergmann and contributors.
+PHPUnit >= 6.5
 ```
 
 
 
-## Installing
+### Installing
 
 Clone this repository
 
 ```sh
-$ git clone https://github.com/migueabellan/phpunit-example
+$ git clone https://github.com/migueabellan/php-ci.git
 ```
 
 Install with composer
