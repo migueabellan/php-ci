@@ -1,4 +1,11 @@
 {
+    "name": "migueabellan/php-ci",
+    "description": "Simple example in PHP to test CI in different platforms",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        
+    },
     "require-dev": {
         "phpunit/phpunit": "^7.2"
     }
