@@ -6,6 +6,8 @@
 
 [![pipeline status](https://gitlab.com/migueabellan/php-ci/badges/master/pipeline.svg)](https://gitlab.com/migueabellan/php-ci/commits/master)
 
+[![pipeline status](https://img.shields.io/bitbucket/pipelines/migueabellan/php-ci.svg)](https://bitbucket.org/migueabellan/php-ci/addon/pipelines/home#!/)
+
 
 ### Requirements
 
@@ -30,6 +32,10 @@ $ git clone https://github.com/migueabellan/php-ci.git
 or 
 
 $ git clone https://gitlab.com/migueabellan/php-ci.git
+
+or
+
+$ git clone https://bitbucket.org/migueabellan/php-ci.git
 ```
 
 Install with composer
